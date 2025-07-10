@@ -14,13 +14,15 @@ IRA_tweets.csv is a panel data of IRA_produced tweets from 2015 to 2018.
 All code here is written and run in Stata BE (Basic Edition). It is recommended to use the Do-file Editor in Stata for executing the scripts.
 
 ## How to Run
+
+**Step 1:**
 Download the Week 1 Assignment folder. Make sure to store all data sets as named in the repository.
 
-Step 2:
+**Step 2:**
 Set the folder the data is stored in as Working Directory. Note that all Stata scripts must be created in the same Working Directory.
 
-Step 3:
+**Step 3:**
 Download the cleaning_and_merging.do file, and open it in Stata. Set the Working Directory as on your machine, and run the script to get cleaned and merged data sets.
 
-Step 5:
+**Step 5:**
 Download the desc_stats_and_visualisation.do file, and open it in Stata. Set the Working Directory as on your machine, and run the script to get the summary statistics and graphs.
