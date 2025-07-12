@@ -24,5 +24,5 @@ Set the folder the data is stored in as Working Directory. Note that all Stata s
 **Step 3:**
 Download the cleaning_and_merging.do file, and open it in Stata. Set the Working Directory as on your machine, and run the script to get cleaned and merged data sets.
 
-**Step 5:**
+**Step 4:**
 Download the desc_stats_and_visualisation.do file, and open it in Stata. Set the Working Directory as on your machine, and run the script to get the summary statistics and graphs.
